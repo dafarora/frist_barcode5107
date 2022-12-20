@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <XPosition>0.12</XPosition>
+  <YPosition>0.8</YPosition>
+  <BarWidth>0.03</BarWidth>
+  <BarHeight>1.4</BarHeight>
+  <FontSize>12</FontSize>
+  <PrintCount>1</PrintCount>
+</Setting>
